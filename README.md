@@ -1,1 +1,2 @@
 # To-Do-List
+Drawing upon HTML, CSS, and JavaScript, I meticulously engineered a robust and intuitive To-Do List web application, empowering users with seamless task addition, comprehensive management options, and effortless deletion functionality, all seamlessly integrated with local storage for persistent data retention, promising a streamlined and efficient task-tracking experience tailored for modern web users.
